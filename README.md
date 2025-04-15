@@ -35,7 +35,7 @@ API viết bằng **Python FastAPI**, với chức năng:
 - Chuẩn hóa biển số theo định dạng Việt Nam.
 - Trả kết quả về dạng JSON.
 
-🔗 **Repo:** `👉 [Đang cập nhật...]`
+🔗 **Repo:** `👉 [https://github.com/PhucDaizz/LicensePlateRecognitionVNAPI](https://github.com/PhucDaizz/LicensePlateRecognitionVNAPI)
 
 ---
 
