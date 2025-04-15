@@ -1,0 +1,19 @@
+[15/04/2025 7:35:36 CH] Starting database setup
+[15/04/2025 7:35:36 CH] Attempting to load configuration from C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\dbconfig.json
+[15/04/2025 7:35:36 CH] Configuration file not found, returning default config
+[15/04/2025 7:35:36 CH] Using default configuration: Server=RYAN, Database=LicensePlateRecognition, IntegratedSecurity=True
+[15/04/2025 7:35:36 CH] Created connection string: Server=RYAN;Database=LicensePlateRecognition;Integrated Security=True;TrustServerCertificate=True;Connect Timeout=30;
+[15/04/2025 7:35:36 CH] Đang kiểm tra kết nối đến SQL Server...
+[15/04/2025 7:35:36 CH] Testing connection with: Server=RYAN;Database=LicensePlateRecognition;Integrated Security=True;TrustServerCertificate=True;Connect Timeout=30;
+[15/04/2025 7:35:37 CH] Connection test successful
+[15/04/2025 7:35:37 CH] InitializeDatabase called
+[15/04/2025 7:35:37 CH] Attempting to load configuration from C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\dbconfig.json
+[15/04/2025 7:35:37 CH] Configuration file not found, returning default config
+[15/04/2025 7:35:37 CH] Using default configuration: Server=RYAN, Database=LicensePlateRecognition, IntegratedSecurity=True
+[15/04/2025 7:35:37 CH] Attempting to connect to database
+[15/04/2025 7:35:37 CH] Kết nối tới database LicensePlateRecognition thành công
+[15/04/2025 7:35:37 CH] Connecting to database to create table if needed
+[15/04/2025 7:35:37 CH] Đang kiểm tra và tạo bảng dữ liệu...
+[15/04/2025 7:35:37 CH] Executing create table query
+[15/04/2025 7:35:37 CH] Đã kiểm tra và tạo bảng dữ liệu thành công
+[15/04/2025 7:35:37 CH] Khởi tạo CSDL thành công

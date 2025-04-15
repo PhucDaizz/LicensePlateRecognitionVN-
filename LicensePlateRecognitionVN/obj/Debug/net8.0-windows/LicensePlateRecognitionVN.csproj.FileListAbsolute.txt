@@ -1,0 +1,262 @@
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\LicensePlateRecognitionVN.exe
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\LicensePlateRecognitionVN.deps.json
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\LicensePlateRecognitionVN.runtimeconfig.json
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\LicensePlateRecognitionVN.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\LicensePlateRecognitionVN.pdb
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.csproj.GenerateResource.cache
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.GeneratedMSBuildEditorConfig.editorconfig
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.AssemblyInfoInputs.cache
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.AssemblyInfo.cs
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.csproj.CoreCompileInputs.cache
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\refint\LicensePlateRecognitionVN.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.pdb
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.genruntimeconfig.cache
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\ref\LicensePlateRecognitionVN.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\Emgu.CV.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\Emgu.CV.Bitmap.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.csproj.AssemblyReference.cache
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.FormMain.resources
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicenseP.00D4EFA3.Up2Date
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.Form3.resources
+C:\DaiHoc\NAM 3\HK2\ITS\LicensePlateRecognition\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.sourcelink.json
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\LicensePlateRecognitionVN.exe
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\LicensePlateRecognitionVN.deps.json
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\LicensePlateRecognitionVN.runtimeconfig.json
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\LicensePlateRecognitionVN.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\LicensePlateRecognitionVN.pdb
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\Emgu.CV.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\Emgu.CV.Bitmap.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\System.Text.Json.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\cvextern.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\cvextern.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\cvextern.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\concrt140.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\concrt140.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\concrt140.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.csproj.AssemblyReference.cache
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.Form3.resources
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.csproj.GenerateResource.cache
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.GeneratedMSBuildEditorConfig.editorconfig
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.AssemblyInfoInputs.cache
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.AssemblyInfo.cs
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.csproj.CoreCompileInputs.cache
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicenseP.00D4EFA3.Up2Date
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\refint\LicensePlateRecognitionVN.dll
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.pdb
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.genruntimeconfig.cache
+E:\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\ref\LicensePlateRecognitionVN.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\LicensePlateRecognitionVN.exe
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\LicensePlateRecognitionVN.deps.json
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\LicensePlateRecognitionVN.runtimeconfig.json
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\LicensePlateRecognitionVN.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\LicensePlateRecognitionVN.pdb
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\Emgu.CV.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.csproj.AssemblyReference.cache
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.Form3.resources
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.csproj.GenerateResource.cache
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.AssemblyInfoInputs.cache
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.AssemblyInfo.cs
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.csproj.CoreCompileInputs.cache
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicenseP.00D4EFA3.Up2Date
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\refint\LicensePlateRecognitionVN.dll
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.pdb
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.genruntimeconfig.cache
+C:\Users\PHUCDAI\Documents\Zalo Received Files\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\ref\LicensePlateRecognitionVN.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\LicensePlateRecognitionVN.exe
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\LicensePlateRecognitionVN.deps.json
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\LicensePlateRecognitionVN.runtimeconfig.json
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\LicensePlateRecognitionVN.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\LicensePlateRecognitionVN.pdb
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\Emgu.CV.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.csproj.AssemblyReference.cache
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.Form3.resources
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.csproj.GenerateResource.cache
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.AssemblyInfoInputs.cache
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.AssemblyInfo.cs
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.csproj.CoreCompileInputs.cache
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicenseP.00D4EFA3.Up2Date
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\refint\LicensePlateRecognitionVN.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.pdb
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.genruntimeconfig.cache
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\ref\LicensePlateRecognitionVN.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.Form3.resources
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.csproj.GenerateResource.cache
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\refint\LicensePlateRecognitionVN.dll
+C:\Users\Ryan24\Downloads\LicensePlateRecognition-master (1)\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognition-master\LicensePlateRecognitionVN\obj\Debug\net8.0-windows\LicensePlateRecognitionVN.pdb
