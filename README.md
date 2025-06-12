@@ -1,4 +1,4 @@
-
+<img src="https://iili.io/FfYJOas.jpg" alt="Demo IMG" style="max-width: 100%; height: auto;" />
 
 # 🚗 Hệ thống Nhận diện Biển số xe Việt Nam (Vietnamese License Plate Recognition System)
 
